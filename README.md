@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paulo Roberto, and I'm a PhD student of Computer Science at [Federal University of Bahia](https://www.ufba.br/) of the post-graduate program [PGCOMP](http://wiki.dcc.ufba.br/PGComp/)
+I'm Paulo Roberto, and I'm a PhD student of Computer Science on the post-graduate program [PGCOMP](http://wiki.dcc.ufba.br/PGComp/) at [Federal University of Bahia](https://www.ufba.br/) 
 
 ## Technologies
 
