@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**pauloprsdesouza/pauloprsdesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I'm Paulo Roberto, and I'm a PhD student of Computer Science at [Federal University of Bahia](https://www.ufba.br/) of the post-graduate program [PGCOMP](http://wiki.dcc.ufba.br/PGComp/)
 
 ## Technologies
