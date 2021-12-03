@@ -14,3 +14,11 @@ I like very much analyzing data and developing software
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloprsdesouza&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloprsdesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
+# Contact
+<div>
+<a href="https://www.youtube.com/channel/UCveum9Au4i8sE30a_jNHhIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/pauloprsdesouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@paulo.prsdesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pauloprsdesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
