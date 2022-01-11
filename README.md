@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi, there 👋 
 ### I'm Paulo Roberto
 > A Full Stack Software Engineer who likes to develop, analyze data and inovate on computer area.
 
