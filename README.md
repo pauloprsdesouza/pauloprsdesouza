@@ -3,10 +3,10 @@
 
 ![.NET Specialist](https://img.shields.io/badge/.NET%20Specialist-5C2D91?style=for-the-badge&logo=.net)
 ![C# Expert](https://img.shields.io/badge/C%23%20Expert-239120?style=for-the-badge&logo=c-sharp)
-![TypeScript Pro](https://img.shields.io/badge/TypeScript%20Pro-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript%20Guru-F7DF1E?style=for-the-badge&logo=javascript)
-![React.js](https://img.shields.io/badge/React.js%20Enthusiast-61DAFB?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js%20Advocate-4FC08D?style=for-the-badge&logo=vue-dot-js)
+![TypeScript Pro](https://img.shields.io/badge/TypeScript%20-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-F7DF1E?style=for-the-badge&logo=javascript)
+![React.js](https://img.shields.io/badge/React.js%20-61DAFB?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-4FC08D?style=for-the-badge&logo=vue-dot-js)
 ![Data Scientist](https://img.shields.io/badge/Data%20Scientist-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDI0MCAyNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyMCAyMEM3MS4yNjUgMjAgMzAgNjEuMjY1IDMwIDExMFYxMjAuMDA0QzMwIDE3MC4wMjkgNzAuOTcwIDIyMCAxMjAgMjIwQzE2OS4wMiAyMjAgMjEwIDE3MC4wMzMgMjEwIDEyMC4wMDRWMTFDMjEwIDYxLjI2NSA3MC4yNjUgMjAgMTIwIDIwWiIgZmlsbD0iI2ZmMDAwMCIvPjwvc3ZnPg==)
 
 ## About Me
