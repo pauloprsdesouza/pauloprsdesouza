@@ -2,30 +2,31 @@
 
 **Tech Lead | Senior Software Engineer | PhD in Computer Science**
 
-I build scalable backend platforms with **C#/.NET, AWS, microservices, distributed systems, and applied AI**.
+I design and deliver scalable backend platforms with C#/.NET, AWS, microservices, and applied AI.
 
-## Professional Snapshot
+## Why Me
 - 12+ years in software engineering
-- Tech Lead at NTT DATA Europe & Latam
-- Enterprise and fintech systems background
-- PhD research in recommender systems and information retrieval
+- Tech Lead experience in enterprise and fintech contexts
+- Strong track record in backend architecture, cloud-native systems, and engineering excellence
+- PhD-level background in recommender systems and applied AI
 
-## Core Strengths
-- Backend engineering: C#, .NET, ASP.NET Core, REST APIs
-- Cloud architecture: AWS serverless, messaging, data platforms
-- Architecture: microservices, event-driven systems, Clean Architecture, SOLID
-- Quality: CI/CD, automated testing, observability
+## Core Expertise
+- C#, .NET, ASP.NET Core, REST APIs
+- AWS (Lambda, Step Functions, API Gateway, SQS/SNS, DynamoDB, RDS)
+- Microservices, distributed systems, event-driven architecture
+- Clean Architecture, SOLID, CI/CD, automated tests
 
-## Featured Repositories
+## Experience Highlights
+- **NTT DATA Europe & Latam** - Tech Lead / Senior Software Engineer
+- **DQR Tech (BTG Pactual projects)** - Senior Software Developer
+- **Blite Tecnologia** - Senior Software Developer
+- **UFBA** - PhD Researcher (Recommender Systems, IR, Applied AI)
+
+## Selected Repositories
 - [`dotnet-core-rest-api`](https://github.com/pauloprsdesouza/dotnet-core-rest-api)
 - [`personal-portfolio`](https://github.com/pauloprsdesouza/personal-portfolio)
 - [`personal-portfolio-api`](https://github.com/pauloprsdesouza/personal-portfolio-api)
 - [`recsys-twitter-social-capital`](https://github.com/pauloprsdesouza/recsys-twitter-social-capital)
-- [`recsocial-api`](https://github.com/pauloprsdesouza/recsocial-api)
-
-## Alternative Versions
-- Recruiter-focused: [`README.recruiter.md`](./README.recruiter.md)
-- Engineering-focused: [`README.engineering.md`](./README.engineering.md)
 
 ## Contact
 - LinkedIn: [linkedin.com/in/pauloprsdesouza](https://www.linkedin.com/in/pauloprsdesouza)
