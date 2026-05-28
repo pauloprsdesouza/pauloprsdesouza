@@ -1,31 +1,49 @@
 # Paulo Roberto de Souza
 
-Software Engineer and Data Scientist focused on backend platforms, cloud architecture, and intelligent systems.
+PhD in Computer Science | Tech Lead | Senior Software Engineer
 
-## About
-- Building production software with .NET, TypeScript, and cloud-native practices.
-- Research background in recommender systems, social networks, and applied data science.
-- Interested in high-quality engineering standards, observability, and scalable APIs.
+I build scalable backend platforms, cloud-native systems, and AI-enabled software with a strong focus on reliability, maintainability, and business impact.
 
-## Core Stack
-- **Backend:** .NET / ASP.NET Core, Java (Spring), REST APIs
-- **Frontend:** React, TypeScript, Vue
-- **Cloud & DevOps:** AWS, Docker, CI/CD
-- **Data & AI:** Python, recommender systems, social network analytics
+## Professional Snapshot
+- 12+ years in software engineering across enterprise and fintech contexts
+- Current role: Tech Lead / Senior Software Engineer at NTT DATA Europe & Latam
+- Strong background in financial systems, distributed systems, and event-driven architecture
+- PhD research in recommender systems, information retrieval, social networks, and applied AI
+
+## Core Expertise
+- **Backend Engineering:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework
+- **Cloud Architecture:** AWS, Lambda, Step Functions, SQS, SNS, API Gateway, DynamoDB, RDS, S3, CloudWatch
+- **Software Architecture:** Microservices, distributed systems, event-driven architecture, Clean Architecture, SOLID
+- **Data & AI:** Applied AI, machine learning, recommender systems, NLP, Python, data mining
+- **DevOps & Quality:** Docker, Kubernetes, Jenkins, CI/CD, xUnit, observability
+- **Leadership:** technical leadership, mentoring, architecture decisions, code reviews
+
+## Selected Experience
+- **NTT DATA Europe & Latam** - Tech Lead / Senior Software Engineer (C#/.NET, AWS, microservices)
+- **DQR Tech (BTG Pactual projects)** - Senior Software Developer (fintech backend, AWS serverless)
+- **Blite Tecnologia** - Senior Software Developer (C#/.NET, React)
+- **UFBA** - PhD Researcher (recommender systems, IR, applied AI)
 
 ## Featured Repositories
-- [`dotnet-core-rest-api`](https://github.com/pauloprsdesouza/dotnet-core-rest-api) - .NET REST API reference with clean architecture practices.
-- [`personal-portfolio`](https://github.com/pauloprsdesouza/personal-portfolio) - Personal website and frontend architecture showcase.
-- [`personal-portfolio-api`](https://github.com/pauloprsdesouza/personal-portfolio-api) - Backend API used by the portfolio platform.
-- [`recsys-twitter-social-capital`](https://github.com/pauloprsdesouza/recsys-twitter-social-capital) - Research implementation for recommender systems on social data.
-- [`recsocial-api`](https://github.com/pauloprsdesouza/recsocial-api) - Java API for recommendation and social data workflows.
-- [`apache-jena-movielens`](https://github.com/pauloprsdesouza/apache-jena-movielens) - Semantic web and ontology experimentation with MovieLens data.
+- [`dotnet-core-rest-api`](https://github.com/pauloprsdesouza/dotnet-core-rest-api)
+- [`personal-portfolio`](https://github.com/pauloprsdesouza/personal-portfolio)
+- [`personal-portfolio-api`](https://github.com/pauloprsdesouza/personal-portfolio-api)
+- [`recsys-twitter-social-capital`](https://github.com/pauloprsdesouza/recsys-twitter-social-capital)
+- [`recsocial-api`](https://github.com/pauloprsdesouza/recsocial-api)
+- [`apache-jena-movielens`](https://github.com/pauloprsdesouza/apache-jena-movielens)
+
+## Education
+- PhD in Computer Science - Federal University of Bahia (UFBA)
+- MSc in Computer Science - Federal University of Bahia (UFBA)
+- MBA in Business Analytics Executive - IPOG
+
+## Languages
+- Portuguese (Native)
+- English (Full Professional)
+- Spanish (Limited Working)
 
 ## Contact
 - Website: [paulosouza.me](https://paulosouza.me)
 - LinkedIn: [linkedin.com/in/pauloprsdesouza](https://www.linkedin.com/in/pauloprsdesouza)
 - Email: paulo.prsdesouza@gmail.com
-
----
-
-Open to collaboration on backend engineering, platform architecture, and data-driven products.
+- Google Scholar: [scholar.google.com/citations](https://scholar.google.com/citations)
