@@ -1,8 +1,8 @@
 # Paulo Roberto de Souza
 
-**Tech Lead | Senior Software Engineer | PhD in Computer Science**
+**Tech Lead | Senior .NET Software Engineer | Cloud & AI Systems**
 
-I design and deliver scalable backend platforms with C#/.NET, AWS, microservices, and applied AI.
+I design and deliver scalable backend platforms with C#/.NET, AWS, microservices, distributed systems, and applied AI.
 
 ## Why Me
 - 12+ years in software engineering
@@ -10,10 +10,10 @@ I design and deliver scalable backend platforms with C#/.NET, AWS, microservices
 - Strong track record in backend architecture, cloud-native systems, and engineering excellence
 - PhD-level background in recommender systems and applied AI
 
-## Core Expertise
-- C#, .NET, ASP.NET Core, REST APIs
-- AWS (Lambda, Step Functions, API Gateway, SQS/SNS, DynamoDB, RDS)
-- Microservices, distributed systems, event-driven architecture
+## Core Expertise (Backend, Cloud, AI)
+- C#, .NET, ASP.NET Core, REST APIs, distributed backend services
+- AWS (Lambda, Step Functions, API Gateway, SQS/SNS, DynamoDB, RDS, CloudWatch)
+- Microservices, distributed systems, event-driven architecture, cloud-native design
 - Clean Architecture, SOLID, CI/CD, automated tests
 
 ## Experience Highlights
