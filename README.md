@@ -32,3 +32,16 @@ I design and deliver scalable backend platforms with C#/.NET, AWS, microservices
 - LinkedIn: [linkedin.com/in/pauloprsdesouza](https://www.linkedin.com/in/pauloprsdesouza)
 - Website: [paulosouza.me](https://paulosouza.me)
 - Email: paulo.prsdesouza@gmail.com
+## Impact Highlights
+- 12+ years delivering software systems across enterprise, fintech, and research environments
+- Tech leadership in backend and cloud-native initiatives with focus on scalability, reliability, and maintainability
+- Hands-on delivery of .NET and AWS-based distributed systems in high-reliability financial contexts
+- Combination of software architecture and applied AI to improve product intelligence and decision quality
+
+## Selected Research
+- *RecTwitter: A Rule-Based Semantic Recommender System for Twitter Users*
+- *Exploiting Linked Open Data for a Collaborative Filtering Recommendation System*
+- *HSLD: A Hybrid Similarity Measure for Linked Data Resources*
+- *Exploiting social capital for improving personalized recommendations in online social networks*
+
+For publications list and citations: [Google Scholar](https://scholar.google.com/citations)
