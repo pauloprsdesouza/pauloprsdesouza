@@ -1,41 +1,63 @@
 # Paulo Roberto de Souza
 
-PhD in Computer Science | Tech Lead | Senior Software Engineer
+**Tech Lead | Senior Software Engineer | PhD in Computer Science**  
+Building enterprise backend platforms with **C#/.NET, AWS, microservices, distributed systems, and applied AI**.
 
-I build scalable backend platforms, cloud-native systems, and AI-enabled software with a strong focus on reliability, maintainability, and business impact.
+I work at the intersection of software engineering, cloud architecture, and intelligent systems to deliver scalable products with long-term maintainability and business value.
 
-## Professional Snapshot
-- 12+ years in software engineering across enterprise and fintech contexts
-- Current role: Tech Lead / Senior Software Engineer at NTT DATA Europe & Latam
-- Strong background in financial systems, distributed systems, and event-driven architecture
-- PhD research in recommender systems, information retrieval, social networks, and applied AI
+## Executive Profile
+- **12+ years** in software engineering across enterprise, fintech, and research-driven environments
+- Current role: **Tech Lead / Senior Software Engineer** at **NTT DATA Europe & Latam**
+- Proven experience in **enterprise backend architecture**, **event-driven systems**, and **cloud-native delivery**
+- PhD research background in **recommender systems**, **information retrieval**, **social networks**, and **applied AI**
 
-## Core Expertise
-- **Backend Engineering:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework
-- **Cloud Architecture:** AWS, Lambda, Step Functions, SQS, SNS, API Gateway, DynamoDB, RDS, S3, CloudWatch
-- **Software Architecture:** Microservices, distributed systems, event-driven architecture, Clean Architecture, SOLID
-- **Data & AI:** Applied AI, machine learning, recommender systems, NLP, Python, data mining
-- **DevOps & Quality:** Docker, Kubernetes, Jenkins, CI/CD, xUnit, observability
-- **Leadership:** technical leadership, mentoring, architecture decisions, code reviews
+## Core Technical Strengths
 
-## Selected Experience
-- **NTT DATA Europe & Latam** - Tech Lead / Senior Software Engineer (C#/.NET, AWS, microservices)
-- **DQR Tech (BTG Pactual projects)** - Senior Software Developer (fintech backend, AWS serverless)
-- **Blite Tecnologia** - Senior Software Developer (C#/.NET, React)
-- **UFBA** - PhD Researcher (recommender systems, IR, applied AI)
+### Backend & APIs
+- C#, .NET, ASP.NET Core
+- REST APIs, Entity Framework, SQL modeling
+- API reliability, observability, and long-term maintainability
+
+### Cloud & Distributed Systems
+- AWS Lambda, Step Functions, API Gateway
+- SQS, SNS, DynamoDB, RDS, S3, CloudWatch
+- Serverless and microservices architectures
+
+### Architecture & Engineering Quality
+- Clean Architecture, SOLID, design patterns
+- Event-driven architecture, system design, scalability and resilience
+- CI/CD, automated testing (xUnit), code quality and engineering standards
+
+### Data & Applied AI
+- Recommender systems, information retrieval, NLP
+- Machine learning, data mining, personalized ranking
+- Python for experimentation and data-driven product capabilities
+
+## Professional Experience Highlights
+- **NTT DATA Europe & Latam**  
+  Tech leadership for backend and cloud-native services, architecture decisions, mentoring, and delivery quality.
+
+- **DQR Tech (projects for BTG Pactual)**  
+  Enterprise fintech backend development with .NET and AWS Serverless in high-reliability environments.
+
+- **Blite Tecnologia**  
+  Senior software development across backend services and modern web applications.
+
+- **UFBA (PhD Research)**  
+  Research and publication track focused on recommendation engines and applied AI for social data.
 
 ## Featured Repositories
-- [`dotnet-core-rest-api`](https://github.com/pauloprsdesouza/dotnet-core-rest-api)
-- [`personal-portfolio`](https://github.com/pauloprsdesouza/personal-portfolio)
-- [`personal-portfolio-api`](https://github.com/pauloprsdesouza/personal-portfolio-api)
-- [`recsys-twitter-social-capital`](https://github.com/pauloprsdesouza/recsys-twitter-social-capital)
-- [`recsocial-api`](https://github.com/pauloprsdesouza/recsocial-api)
-- [`apache-jena-movielens`](https://github.com/pauloprsdesouza/apache-jena-movielens)
+- [`dotnet-core-rest-api`](https://github.com/pauloprsdesouza/dotnet-core-rest-api) - .NET REST API reference architecture
+- [`personal-portfolio`](https://github.com/pauloprsdesouza/personal-portfolio) - personal platform frontend
+- [`personal-portfolio-api`](https://github.com/pauloprsdesouza/personal-portfolio-api) - backend API for portfolio services
+- [`recsys-twitter-social-capital`](https://github.com/pauloprsdesouza/recsys-twitter-social-capital) - applied research implementation
+- [`recsocial-api`](https://github.com/pauloprsdesouza/recsocial-api) - Java API for recommendation workflows
+- [`apache-jena-movielens`](https://github.com/pauloprsdesouza/apache-jena-movielens) - semantic web and linked data experiments
 
 ## Education
-- PhD in Computer Science - Federal University of Bahia (UFBA)
-- MSc in Computer Science - Federal University of Bahia (UFBA)
-- MBA in Business Analytics Executive - IPOG
+- **PhD in Computer Science** - Federal University of Bahia (UFBA)
+- **MSc in Computer Science** - Federal University of Bahia (UFBA)
+- **MBA in Business Analytics Executive** - IPOG
 
 ## Languages
 - Portuguese (Native)
@@ -45,5 +67,9 @@ I build scalable backend platforms, cloud-native systems, and AI-enabled softwar
 ## Contact
 - Website: [paulosouza.me](https://paulosouza.me)
 - LinkedIn: [linkedin.com/in/pauloprsdesouza](https://www.linkedin.com/in/pauloprsdesouza)
-- Email: paulo.prsdesouza@gmail.com
 - Google Scholar: [scholar.google.com/citations](https://scholar.google.com/citations)
+- Email: paulo.prsdesouza@gmail.com
+
+---
+
+Open to strategic engineering roles where backend architecture, cloud systems, and applied AI create measurable product impact.
